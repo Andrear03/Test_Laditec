@@ -1,0 +1,16 @@
+runners\RunPedido.class
+steps\LoginSteps.class
+ModeloDAO\RepuestoDAOTest.class
+steps\UsuarioSteps.class
+Modelo\RepuestoTest.class
+Modelo\UsuarioTest.class
+ModeloDAO\UsuariosDAOTest.class
+steps\PedidoSteps.class
+Controlador\ControladorTest.class
+steps\ProductoSteps.class
+ModeloDAO\LoginDAOTest.class
+runners\RunUsuario.class
+Modelo\PedidoVentaTest.class
+runners\RunProducto.class
+ModeloDAO\PedidoVentaDAOTest.class
+runners\RunLogin.class
